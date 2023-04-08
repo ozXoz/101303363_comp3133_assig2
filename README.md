@@ -1,8 +1,8 @@
 # Frontend
 
-backend deploy:https://101303363-comp-3133-assignment1.vercel.app/graphql
+backend deploy:https://101303363-comp-3133-assignment1.vercel.app/graphql ExpressJS, GraphQl,MongoDb
 
-frontend deploy: https://101303363-comp3133-assignment-2.vercel.app/login
+frontend deploy: https://101303363-comp3133-assignment-2.vercel.app/login Angular typescript
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.5.
 
