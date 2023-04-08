@@ -1,5 +1,6 @@
 
-# Onur Korkmaz 101303363 T177
+# Onur Korkmaz 101303363 T177 Assignment II 
+# Assignment II description : Applying Frontend by using Angular typescript CRUD
 # Frontend
 backend deploy:https://101303363-comp-3133-assignment1.vercel.app/graphql ExpressJS, GraphQl,MongoDb
 
