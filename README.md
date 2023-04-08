@@ -1,5 +1,6 @@
-# Frontend
 
+# Onur Korkmaz 101303363 T177
+# Frontend
 backend deploy:https://101303363-comp-3133-assignment1.vercel.app/graphql ExpressJS, GraphQl,MongoDb
 
 frontend deploy: https://101303363-comp3133-assignment-2.vercel.app/login Angular typescript
